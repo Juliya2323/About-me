@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m a Frontend Developer and here I share my recent projects<br>🤝Shoot me an Email or add me on LinkedIn:)
+<br>🌱 I’m a Frontend Developer and here I share my recent projects<br>🤝Shoot me an Email or add me on LinkedIn:)<br>Key Skills:<br>◾️ Vue.js<br>◾️ Nuxt<br>◾️ JavaScript / TypeScript<br>◾️ Vue Router<br>◾️ REST API<br>◾️ Pinia / VUEX<br>◾️ CSS / SCSS / Bootstrap<br>◾️ HTML / PUG / BEM<br>◾️ Vite<br>◾️ Vuetify<br>◾️ Git<br>◾️ Firebase<br>◾️ Jira<br>◾️ UX&UI basics<br>◾️ Angular basics
 
 
 ## 🌐 Socials:
