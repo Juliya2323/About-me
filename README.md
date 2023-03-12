@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m a beginning Frontend Developer and here I share my recent projects<br>🤝Shoot me an Email or add me on LinkedIn:)
+<br>🌱 I’m a Frontend Developer and here I share my recent projects<br>🤝Shoot me an Email or add me on LinkedIn:)
 
 
 ## 🌐 Socials:
